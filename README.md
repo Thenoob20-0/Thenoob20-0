@@ -7,13 +7,12 @@ Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digit
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thenoob20-0&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenoob20-0&langs_count=8)
 ## 🛠 Skills
 JavaScript, C#, React, Expo, MySQL, Tailwind, Bootstrap, HTML, CSS
 
-## Projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenoob20-0&langs_count=8)
 
-## 🚀 Proyectos
+## 🚀 Projects
 
 **4PetsCare** — Aplicación móvil de cuidado de mascotas con React y Expo.
 
