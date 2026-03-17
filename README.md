@@ -19,7 +19,7 @@ JavaScript, C#, React, Expo, MySQL, Tailwind, Bootstrap, HTML, CSS
 
 **SmartReview** — Aplicación de escritorio para gestión de apuntes estudiantiles.
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gildardo-emmanuel-gonzalez-garcia-1b794738b)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gildardo-emmanuel-gonzalez-garcia-1b794738b)
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Thenoob20-0/portafolio-ggonzalez)
 [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelgildardo19@gmail.com)
 
