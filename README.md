@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Thenoob20-0/Thenoob20-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, mi nombre es Gildardo Emmanuel
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital, Área de Desarrollo de Software Multiplataforma. Apasionado por el desarrollo móvil y web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thenoob20-0&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenoob20-0&langs_count=8)
+## 🛠 Skills
+JavaScript, C#, React, Expo, MySQL, Tailwind, Bootstrap, HTML, CSS
+
+## Projects
+
+## 🚀 Proyectos
+
+**4PetsCare** — Aplicación móvil de cuidado de mascotas con React y Expo.
+
+**SmartReview** — Aplicación de escritorio para gestión de apuntes estudiantiles.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gildardo-emmanuel-gonzalez-garcia)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Thenoob20-0/portafolio-ggonzalez)
+[![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelgildardo19@gmail.com)
+
