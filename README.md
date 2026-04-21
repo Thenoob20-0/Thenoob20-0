@@ -16,7 +16,7 @@ JavaScript, C#, React, Expo, MySQL, Tailwind, Bootstrap, HTML, CSS
 
 **4PetsCare** — Aplicación móvil de cuidado de mascotas con React y Expo.
 
-**SmartReview** — Aplicación de escritorio para gestión de apuntes estudiantiles.
+**SmartReview** — Aplicación de escritorio para gestión de apuntes estudiantiles con Windows Forms.
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gildardo-emmanuel-gonzalez-garcia-1b794738b)
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Thenoob20-0/portafolio-ggonzalez)
