@@ -1,21 +1,78 @@
-# 💫 Acerca de Mi:
-Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital, Área de Desarrollo de Software Multiplataforma. <br>Apasionado por el desarrollo móvil y web.<br><br>"Busco sacar lo mejor de mí en cada proyecto, mi meta es siempre superar mis límites y adquirir conocimiento"<br><br>- "Si puedes imaginarlo, puedes crearlo." — Walt Disney<br>- "Todo lo puedo en Cristo que me fortalece." — Filipenses 4:13<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:f78ca0,100:c7a4f5&text=Gildardo%20Emmanuel&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=software%20developer%20%C2%B7%20multiplataforma&descAlignY=58&descSize=16&animation=fadeIn" alt="Banner" width="100%"/>
 
-## 🌐 Social:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thenoob20)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://www.facebook.com/gildardo.emmanel/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gildardo%20Emmanuel%20Gonzalez%20Garcia)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tripg2006@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Software+Developer+Multiplataforma;Desarrollo+m%C3%B3vil+y+web+%F0%9F%93%B1%F0%9F%92%BB;React+Native+%C2%B7+NestJS+%C2%B7+.NET;Superando+mis+l%C3%ADmites+cada+d%C3%ADa+%E2%9C%A8" alt="Typing SVG"/>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Thenoob20-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Thenoob20-0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thenoob20-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=Thenoob20-0&style=flat&color=f78ca0&label=profile+views" alt="profile views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Thenoob20-0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+```bash
+thenoob@github:~$ whoami
+Gildardo Emmanuel Gonzalez Garcia
+
+thenoob@github:~$ cat about.txt
+> Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital
+> Área: Desarrollo de Software Multiplataforma
+> Apasionado por el desarrollo móvil y web
+```
+
+## `$ cat quotes.txt`
+
+> *"Busco sacar lo mejor de mí en cada proyecto, mi meta es siempre superar mis límites y adquirir conocimiento"*
+>
+> *"Si puedes imaginarlo, puedes crearlo."* — Walt Disney
+>
+> *"Todo lo puedo en Cristo que me fortalece."* — Filipenses 4:13
+
+---
+
+## `$ cat tech-stack.yaml`
+
+| `thenoob:~$ cat tech-stack.yaml` | |
+|:--|:--|
+| `├─ ⌨ languages:` | <img src="https://skillicons.dev/icons?i=cs,dotnet,html,js,ts,py,powershell&theme=dark" alt="Lenguajes"/> |
+| `├─ 📱 frontend_mobile:` | <img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark" alt="Frontend y móvil"/> <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white" alt="Expo"/> |
+| `├─ ⚙ backend_runtime:` | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,npm,pnpm&theme=dark" alt="Backend"/> |
+| `├─ ▣ databases_cloud:` | <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,sqlite&theme=dark" alt="Bases de datos"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render"/> |
+| `├─ ✦ design_tools:` | <img src="https://skillicons.dev/icons?i=figma,git,github&theme=dark" alt="Diseño y herramientas"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/> |
+| `╰─ ⌁ networking:` | <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco"/> |
+
+<div align="center">
+
+`status: aprendiendo siempre  ·  environment: development`
+
+</div>
+
+---
+
+## `$ cat stats.log`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Thenoob20-0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=f78ca0&icon_color=c7a4f5&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Thenoob20-0&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=f78ca0&text_color=c9d1d9" alt="Lenguajes principales"/>
+
+<img src="https://streak-stats.demolab.com/?user=Thenoob20-0&hide_border=true&background=1a1a2e&ring=f78ca0&fire=f78ca0&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c7a4f5&sideLabels=c7a4f5&dates=8a8aa8" alt="Racha de GitHub"/>
+
+</div>
+
+---
+
+## `$ connect --socials`
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/thenoob20)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gildardo.emmanel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Gildardo%20Emmanuel%20Gonzalez%20Garcia)
+[![Email](https://img.shields.io/badge/Email-F78CA0?style=for-the-badge&logo=gmail&logoColor=1a1a2e)](mailto:tripg2006@gmail.com)
+
+· @Thenoob20-0
+
+</div>
